@@ -22,6 +22,6 @@
 	"port": "6001",
 	"protocol": "https",
 	"socketio": {},
-	"sslCertPath": "/etc/ssl/certs/goodworkfor.life.crt",
-	"sslKeyPath": "/etc/ssl/certs/goodworkfor.life.key"
+	"sslCertPath": "/etc/ssl/certs/tasks.creativebox.co.za.crt",
+	"sslKeyPath": "/etc/ssl/certs/tasks.creativebox.co.za.key"
 }
